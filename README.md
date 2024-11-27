@@ -1,2 +1,2 @@
-# Amara-story-ai
+# sun-story-ai
 It a website where people can create free stories
